@@ -1,0 +1,62 @@
+ir_streamlit_assignment/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── modules/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── phrase_queries.py
+│   ├── tree_structures.py
+│   └── tolerant_retrieval.py
+│
+└── data/
+    ├── doc1_ai_research.txt
+    ├── doc2_health_ai.txt
+    ├── doc3_market_news.txt
+    ├── doc4_sports_science.txt
+    ├── doc5_education_tech.txt
+    └── doc6_environment_policy.txt
+
+
+    # Information Retrieval Streamlit Assignment
+
+This project is a modular Streamlit dashboard for an Information Retrieval assignment.
+
+## Project Structure
+
+- `app.py` - Main Streamlit application
+- `modules/data_loader.py` - Dataset loading
+- `modules/preprocessing.py` - Tokenization, lowercasing, stopword removal, hyphen handling, stemming, lemmatization, inverted index
+- `modules/phrase_queries.py` - Biword and positional indexing
+- `modules/tree_structures.py` - BST and B-Tree comparison
+- `modules/tolerant_retrieval.py` - Wildcard, edit distance, and K-gram based retrieval
+- `data/` - Sample dataset
+
+## Install
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+streamlit run app.py
+```
+
+## Dataset
+
+A small built-in news-style text collection is included to satisfy the assignment workflow. You can also upload your own `.txt` files from the UI.
+
+## Notes for Report
+
+Take screenshots from these pages:
+- Home / uploaded documents
+- Preprocessing outputs and inverted index
+- Stemming vs lemmatization comparison table
+- Phrase query comparison
+- BST vs B-Tree timing table
+- Tolerant retrieval examples
+- Inference page
