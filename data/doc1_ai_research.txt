@@ -1,0 +1,3 @@
+Machine learning systems are transforming climate research.
+Researchers use neural models to study weather shifts, carbon trends, and environmental policies.
+Climate change forecasting depends on good data collection and careful retrieval of past evidence.

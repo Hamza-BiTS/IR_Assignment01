@@ -1,0 +1,2 @@
+Health analysts use machine learning to detect disease patterns and improve vaccine planning. 
+Medical retrieval systems support hospitals by finding relevant reports, patient trends, and policy guidance quickly.
