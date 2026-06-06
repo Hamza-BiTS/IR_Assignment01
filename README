@@ -1,24 +1,3 @@
-ir_streamlit_assignment/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── modules/
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── phrase_queries.py
-│   ├── tree_structures.py
-│   └── tolerant_retrieval.py
-│
-└── data/
-    ├── doc1_ai_research.txt
-    ├── doc2_health_ai.txt
-    ├── doc3_market_news.txt
-    ├── doc4_sports_science.txt
-    ├── doc5_education_tech.txt
-    └── doc6_environment_policy.txt
-
 
     # Information Retrieval Streamlit Assignment
 
@@ -60,3 +39,25 @@ Take screenshots from these pages:
 - BST vs B-Tree timing table
 - Tolerant retrieval examples
 - Inference page
+
+
+ir_streamlit_assignment/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── modules/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── phrase_queries.py
+│   ├── tree_structures.py
+│   └── tolerant_retrieval.py
+│
+└── data/
+    ├── doc1_ai_research.txt
+    ├── doc2_health_ai.txt
+    ├── doc3_market_news.txt
+    ├── doc4_sports_science.txt
+    ├── doc5_education_tech.txt
+    └── doc6_environment_policy.txt
