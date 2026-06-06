@@ -1,5 +1,4 @@
-
-    # Information Retrieval Streamlit Assignment
+# Information Retrieval Streamlit Assignment
 
 This project is a modular Streamlit dashboard for an Information Retrieval assignment.
 
@@ -40,7 +39,9 @@ Take screenshots from these pages:
 - Tolerant retrieval examples
 - Inference page
 
+## File Directory
 
+```text
 ir_streamlit_assignment/
 │
 ├── app.py
@@ -61,3 +62,4 @@ ir_streamlit_assignment/
     ├── doc4_sports_science.txt
     ├── doc5_education_tech.txt
     └── doc6_environment_policy.txt
+```
